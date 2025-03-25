@@ -1,0 +1,47 @@
+/* The custom css */
+
+
+.header {
+  background-color: #6b1414;
+  color: white;
+  padding: 115px;
+  margin-top: 7px;
+  margin-left: 7px;
+  clip-path: polygon(0 0, 100% 0, 100% 84%, 88% 100%, 0 100%);
+}
+
+.header img {
+  margin-bottom: 1rem;
+}
+.header h1 {
+  font-size: 100px;
+  font-family: "Archivo Black", sans-serif;
+  font-weight: bold;
+}
+
+.header h2 {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 3.5rem;
+}
+.header p {
+  font-size: 30px;
+  text-align: justify;
+}
+
+h4{font-family: "Archivo Black", sans-serif;
+
+}
+.footer{
+  clip-path:polygon(0 0, 100% 0, 100% 75%, 87% 100%, 0 100%);
+  font-family: "Archivo Black", sans-serif;
+  font-weight: bold;
+  padding: 80px;
+  margin-top: 5rem;
+  font-size: 50px;
+  color: white;
+  background-color: #6b1414;
+  margin-bottom: 5px;
+ 
+}
